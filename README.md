@@ -4,7 +4,7 @@ Google's 5 days Generative Intensive AI with Kaggle.
 Welcome to today's assignments! Follow the steps below to complete your coursework and explore the exciting world of large language models and prompt engineering.
 
 Assignments
-1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”
+1. Complete the Intro Unit – “Foundational Large Language Models & Text Generation”: https://github.com/OYanez85/5-Day_Gen_AI_Intensive/blob/main/whitepaper_Foundational%20Large%20Language%20models%20%26%20text%20generation_v2.pdf
 
     Podcast: Listen to the summary podcast episode for this unit: https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2
 
