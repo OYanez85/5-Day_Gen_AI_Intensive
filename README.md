@@ -14,7 +14,7 @@ Assignments
 
     Podcast: Listen to the summary podcast episode for this unit: (https://www.youtube.com/watch?v=CFtX0ZyLSAY&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=3)
 
-    Whitepaper: Read the “Prompt Engineering” whitepaper.
+    Whitepaper: Read the “Prompt Engineering” whitepaper: https://github.com/OYanez85/5-Day_Gen_AI_Intensive/blob/main/22365_3_Prompt%20Engineering_v7%20(1).pdf
 
     Codelabs on Kaggle:
 
